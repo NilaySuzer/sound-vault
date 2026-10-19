@@ -10,7 +10,7 @@ Bu çalışma; temel mobil uygulama geliştirme eğitimi kapsamında saf mimari 
 
 | Keşif & Katalog | Albüm Detayı | Koleksiyon Sepeti | Boş Durum |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/1_catalog.png" width="220" /> | <img src="screenshots/2_detail.png" width="220" /> | <img src="screenshots/3_cart_full.png" width="220" /> | <img src="screenshots/4_cart_empty.png" width="220" /> |
+| <img src="anasayfa.png" width="220" /> | <img src="screenshots/2_detail.png" width="220" /> | <img src="screenshots/3_cart_full.png" width="220" /> | <img src="screenshots/4_cart_empty.png" width="220" /> |
 
 ---
 
