@@ -43,6 +43,7 @@ sound_vault/
 ├── screenshots/             # Dokümantasyon ekran görüntüleri
 ├── pubspec.yaml             # Varlık tanımlamaları ve SDK bağımlılıkları
 └── README.md
+´´´
 ⚙️ Teknik Gereksinimler & Ortam
 Flutter Sürümü: 3.47.7 (Channel stable)
 
