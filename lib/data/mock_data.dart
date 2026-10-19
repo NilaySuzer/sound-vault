@@ -3,9 +3,9 @@
 final List<Product> mockProducts = [
   Product(
     id: 1,
-    title: "Rumours",
-    artist: "Fleetwood Mac",
-    year: "1977",
+    title: "Hybrid Theory",
+    artist: "Linkin Park",
+    year: "2000",
     condition: "Mint",
     price: 450.0,
     description: "Orijinal ilk baskı analog mastering. Kapak kondisyonu kusursuz, çizik barındırmaz.",
@@ -13,8 +13,8 @@ final List<Product> mockProducts = [
   ),
   Product(
     id: 2,
-    title: "The Dark Side of the Moon",
-    artist: "Pink Floyd",
+    title: "Lost on You",
+    artist: "LP",
     year: "1973",
     condition: "Near Mint",
     price: 620.0,
@@ -23,9 +23,9 @@ final List<Product> mockProducts = [
   ),
   Product(
     id: 3,
-    title: "A Night at the Opera",
-    artist: "Queen",
-    year: "1975",
+    title: "Load",
+    artist: "Metallica",
+    year: "1998",
     condition: "Very Good+",
     price: 520.0,
     description: "Kabartmalı kapak detayı, hafif raf izi mevcut; ses kanalları tertemiz.",
@@ -33,8 +33,8 @@ final List<Product> mockProducts = [
   ),
   Product(
     id: 4,
-    title: "Led Zeppelin IV",
-    artist: "Led Zeppelin",
+    title: "Jolene",
+    artist: "Dolly Parton",
     year: "1971",
     condition: "Near Mint",
     price: 480.0,
